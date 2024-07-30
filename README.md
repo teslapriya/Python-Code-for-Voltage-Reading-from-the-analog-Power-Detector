@@ -1,0 +1,1 @@
+By integrating a Vector Network Analyzer (VNA), a power detector, and a microcontroller with Python-based data analysis, we have developed a robust experimental setup for accurate power measurement and data acquisition.
